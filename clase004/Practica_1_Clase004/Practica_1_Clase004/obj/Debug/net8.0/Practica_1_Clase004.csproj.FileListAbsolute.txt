@@ -1,0 +1,15 @@
+C:\Users\Navegador\Source\Repos\clase004\Practica_1_Clase004\Practica_1_Clase004\obj\Debug\net8.0\Practica_1_Clase004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Navegador\Source\Repos\clase004\Practica_1_Clase004\Practica_1_Clase004\obj\Debug\net8.0\Practica_1_Clase004.AssemblyInfoInputs.cache
+C:\Users\Navegador\Source\Repos\clase004\Practica_1_Clase004\Practica_1_Clase004\obj\Debug\net8.0\Practica_1_Clase004.AssemblyInfo.cs
+C:\Users\Navegador\Source\Repos\clase004\Practica_1_Clase004\Practica_1_Clase004\obj\Debug\net8.0\Practica_1_Clase004.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\Source\Repos\clase004\Practica_1_Clase004\Practica_1_Clase004\obj\Debug\net8.0\Practica_1_Clase004.sourcelink.json
+C:\Users\Navegador\Source\Repos\clase004\Practica_1_Clase004\Practica_1_Clase004\bin\Debug\net8.0\Practica_1_Clase004.exe
+C:\Users\Navegador\Source\Repos\clase004\Practica_1_Clase004\Practica_1_Clase004\bin\Debug\net8.0\Practica_1_Clase004.deps.json
+C:\Users\Navegador\Source\Repos\clase004\Practica_1_Clase004\Practica_1_Clase004\bin\Debug\net8.0\Practica_1_Clase004.runtimeconfig.json
+C:\Users\Navegador\Source\Repos\clase004\Practica_1_Clase004\Practica_1_Clase004\bin\Debug\net8.0\Practica_1_Clase004.dll
+C:\Users\Navegador\Source\Repos\clase004\Practica_1_Clase004\Practica_1_Clase004\bin\Debug\net8.0\Practica_1_Clase004.pdb
+C:\Users\Navegador\Source\Repos\clase004\Practica_1_Clase004\Practica_1_Clase004\obj\Debug\net8.0\Practica_1_Clase004.dll
+C:\Users\Navegador\Source\Repos\clase004\Practica_1_Clase004\Practica_1_Clase004\obj\Debug\net8.0\refint\Practica_1_Clase004.dll
+C:\Users\Navegador\Source\Repos\clase004\Practica_1_Clase004\Practica_1_Clase004\obj\Debug\net8.0\Practica_1_Clase004.pdb
+C:\Users\Navegador\Source\Repos\clase004\Practica_1_Clase004\Practica_1_Clase004\obj\Debug\net8.0\Practica_1_Clase004.genruntimeconfig.cache
+C:\Users\Navegador\Source\Repos\clase004\Practica_1_Clase004\Practica_1_Clase004\obj\Debug\net8.0\ref\Practica_1_Clase004.dll
